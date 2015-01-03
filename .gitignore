@@ -1,0 +1,15 @@
+*.iml
+.idea/
+*.properties
+*.pem
+*.git
+*.ebextensions/
+.ebextensions/
+.classpath
+.project
+.settings/
+target/
+*.zip
+app.config
+aws/aws.iml
+/bin/
